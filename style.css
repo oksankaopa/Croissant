@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(242, 209, 166);
+}
+h1 {
+  text-align: center;
+  color: rgb(90, 52, 2);
+  font-weight: bold;
+}
+img {
+  max-width: 80%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+footer {
+  display: block;
+  text-align: center;
+}
+p {
+  text-align: center;
+  margin: 20px;
+}
+a {
+  margin: 0 10px;
+}
